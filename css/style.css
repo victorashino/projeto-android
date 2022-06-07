@@ -93,7 +93,7 @@ main > h1, h2{
 }
 
 h2{
-    background-image: linear-gradient(to right, var(--cor1), white);
+    background-image: linear-gradient(to right, var(--cor1), transparent);
 }
 
 main p{
